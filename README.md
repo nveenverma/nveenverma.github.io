@@ -22,6 +22,7 @@
 [Visualising Gender Gap in College Degrees](Visualising%20Gender%20Gap%20in%20College%20Degrees)|Pandas & Matplotlib
 
 ## Data Analysis using Stats
+
 | Project Name | Languages/Tools Used |
 |-|-|
 [Investigating Fandango Movie Ratings](Investigating%20Fandango%20Movie%20Ratings)|Pandas, Matplotlib
@@ -41,6 +42,3 @@
 | Project Name | Languages/Tools Used |
 |-|-|
 [Predicting Car Prices](Predicting%20Car%20Prices)| Pandas, Scikit-Learn, KNN
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
