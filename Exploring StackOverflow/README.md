@@ -4,13 +4,16 @@
 
 To do so, we will scrape the `StackOverflow Website's Tags` [Page](https://stackoverflow.com/tags?tab=popular).
 
+
+View this notebook on [nbviewer](https://nbviewer.jupyter.org/github/nveenverma/nveenverma.github.io/blob/master/Exploring%20StackOverflow/main.ipynb)
+
 --- 
 
 Following Packages are used:
 
 - *Pandas - DataFrame (Consolidating Data)*
 - *Matplotlib - Visualisation*
-- *BeautifulSoup - Scraping*
+- *BeautifulSoup - Web Scraping*
 
 ---
 > Tags Per Language<br><br>

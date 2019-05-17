@@ -5,9 +5,11 @@
 - Which type of posts receive more comments on average?
 - Do posts created at a certain time receive more comments on average?
 
+View this notebook on [nbviewer](https://nbviewer.jupyter.org/github/nveenverma/nveenverma.github.io/blob/master/Exploring%20Hacker%20News%20Posts/Basics.ipynb)
+
 --- 
 
-Following Packages are used:
+Following Packages and Concepts are explored:
 
 - *Python CSV Module - Reading Data*
 - *Regex - Data Cleaning*
