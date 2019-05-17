@@ -16,7 +16,14 @@
 [Storing Storm Data](Storing%20Storm%20Data)| PostgreSQL, SQL
 
 ## Data Analysis using Stats
+<<<<<<< HEAD
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Project Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Languages/Tools Used &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
+||||||| merged common ancestors
+| Project Name | Languages/Tools Used |
+=======
+
+| Project Name | Languages/Tools Used |
+>>>>>>> 5f32cf2bd199f22dac5658256e0d544f8768fe3f
 |-|-|
 [Investigating Fandango Movie Ratings](Investigating%20Fandango%20Movie%20Ratings)|Pandas, Matplotlib
 [Finding the Best Markets to Advertise In](Finding%20the%20Best%20Markets%20to%20Advertise%20In)|Pandas, Matplotlib, seaborn
@@ -33,6 +40,7 @@
 
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Project Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Languages/Tools Used &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 |-|-|
+<<<<<<< HEAD
 [Exploring Gun Deaths in the US](Exploring%20Gun%20Deaths%20in%20the%20US/)|Python
 [Finding Profitable App Profiles](Finding%20Profitable%20App%20Profiles%20for%20App%20Store%20&%20Google%20Play%20Store)|Python
 [Transforming Data With Python](Transforming%20Data%20With%20Python/)|Python
@@ -43,3 +51,11 @@
 
 
 
+||||||| merged common ancestors
+[Predicting Car Prices](Predicting%20Car%20Prices)| Pandas, Scikit-Learn, KNN
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+=======
+[Predicting Car Prices](Predicting%20Car%20Prices)| Pandas, Scikit-Learn, KNN
+>>>>>>> 5f32cf2bd199f22dac5658256e0d544f8768fe3f
