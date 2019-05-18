@@ -8,7 +8,7 @@
 - Have Users that can only read into a table.
 - And Users who can insert data into the table.
 
-View this notebook on [nbviewer](https://nbviewer.jupyter.org/github/nveenverma/nveenverma.github.io/blob/master/Storing%20Storm%20Data/main.ipynb)
+[Github Repo](https://github.com/nveenverma/Projects/tree/master/Storing%20Storm%20Data) | [Notebook Preview (nbviewer)](https://nbviewer.jupyter.org/github/nveenverma/Projects/blob/master/Storing%20Storm%20Data/main.ipynb)
 
 --- 
 

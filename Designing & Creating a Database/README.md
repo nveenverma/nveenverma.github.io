@@ -3,7 +3,7 @@
 ***In this mini-project, we will be working with a file of Major League Baseball games from [Retrosheet](http://www.retrosheet.org/).<br><br>We will design and create a Database with normalised tables by compiling data from various sources.***
 
 
-View this on [nbviewer](https://nbviewer.jupyter.org/github/nveenverma/nveenverma.github.io/blob/master/Designing%20%26%20Creating%20a%20Database/Basics.ipynb)
+[Github Repo](https://github.com/nveenverma/Projects/tree/master/Designing%20%26%20Creating%20a%20Database) | [Notebook Preview (nbviewer)](https://nbviewer.jupyter.org/github/nveenverma/Projects/blob/master/Designing%20%26%20Creating%20a%20Database/Basics.ipynb)
 
 --- 
 

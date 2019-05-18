@@ -2,7 +2,7 @@
 
 ***In this mini-project, we will analyse NYC High School Data and try to find if there is any racial, gender or economic bias in the U.S. Educational System.<br><br>We will compile data from various sources and try to find out correlations.***
 
-View this notebook on [nbviewer](https://nbviewer.jupyter.org/github/nveenverma/nveenverma.github.io/blob/master/Analysing%20NYC%20High%20School%20Data/Schools.ipynb)
+[Github Repo](https://github.com/nveenverma/Projects/tree/master/Analysing%20NYC%20High%20School%20Data) | [Notebook Preview (nbviewer)](https://nbviewer.jupyter.org/github/nveenverma/Projects/blob/master/Analysing%20NYC%20High%20School%20Data/Schools.ipynb)
 
 ---
 
